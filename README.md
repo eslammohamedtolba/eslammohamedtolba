@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently **deepening my expertise in LangGraph for multi-agent orchestration, exploring MLOps practices using AWS SageMaker and Docker, advancing my knowledge in generative adversarial networks (GANs) and reinforcement learning, and studying scalable deployment strategies for LLM-powered systems in production environments.**
 
+- 💬 Ask me about **machine learning and deep learning workflows, natural language processing with large language models (LLMs), building retrieval-augmented generation (RAG) pipelines using LangChain, deploying APIs with FastAPI and Flask, integrating multi-agent systems, and applying AI in real-world applications such as face detection, sentiment analysis, and recommendation systems.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/eslammohamedtolba](https://github.com/eslammohamedtolba)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eslam-mohamed-891811254/](https://www.linkedin.com/in/eslam-mohamed-891811254/)
-
-- 💬 Ask me about **machine learning and deep learning workflows, natural language processing with large language models (LLMs), building retrieval-augmented generation (RAG) pipelines using LangChain, deploying APIs with FastAPI and Flask, integrating multi-agent systems, and applying AI in real-world applications.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uisrjdmT8372jbeyDDF7uF3ug3u1O-sO/view?usp=drive_link](https://drive.google.com/file/d/1uisrjdmT8372jbeyDDF7uF3ug3u1O-sO/view?usp=drive_link)
 
