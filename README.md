@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eslam-mohamed-891811254/](https://www.linkedin.com/in/eslam-mohamed-891811254/)
 
-- 💬 Ask me about **machine learning and deep learning workflows, natural language processing with large language models (LLMs), building retrieval-augmented generation (RAG) pipelines using LangChain, deploying APIs with FastAPI and Flask, integrating multi-agent systems, and applying AI in real-world applications such as face detection, sentiment analysis, and recommendation systems.**
+- 💬 Ask me about **machine learning and deep learning workflows, natural language processing with large language models (LLMs), building retrieval-augmented generation (RAG) pipelines using LangChain, deploying APIs with FastAPI and Flask, integrating multi-agent systems, and applying AI in real-world applications.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uisrjdmT8372jbeyDDF7uF3ug3u1O-sO/view?usp=drive_link](https://drive.google.com/file/d/1uisrjdmT8372jbeyDDF7uF3ug3u1O-sO/view?usp=drive_link)
 
